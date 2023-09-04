@@ -6,7 +6,7 @@
         1000,
         50
       ],
-      "tensorPath": "https://raw.githubusercontent.com/.../tensors.tsv",
+      "tensorPath": "https://raw.githubusercontent.com/minna-lproc/tensorboard/main/word_embeddings.tsv",
       "metadataPath": "https://raw.githubusercontent.com/.../optional.metadata.tsv"
     }
   ]
